@@ -72,7 +72,7 @@ class ClockService : Service() {
             textSize = 22f
             setTextColor(Color.WHITE)
             setBackgroundColor(Color.rgb(20, 30, 45))
-            setPadding(24, 18, 24, 18)
+            setPadding(24, 30, 24, 30)
             gravity = Gravity.CENTER
         }
 
